@@ -1,0 +1,25 @@
+c:\Visual Studio Code Solutions\Bramming Rideklub\bin\Debug\net8.0\appsettings.Development.json
+c:\Visual Studio Code Solutions\Bramming Rideklub\bin\Debug\net8.0\appsettings.json
+c:\Visual Studio Code Solutions\Bramming Rideklub\bin\Debug\net8.0\Bramming Rideklub.exe
+c:\Visual Studio Code Solutions\Bramming Rideklub\bin\Debug\net8.0\Bramming Rideklub.deps.json
+c:\Visual Studio Code Solutions\Bramming Rideklub\bin\Debug\net8.0\Bramming Rideklub.runtimeconfig.json
+c:\Visual Studio Code Solutions\Bramming Rideklub\bin\Debug\net8.0\Bramming Rideklub.dll
+c:\Visual Studio Code Solutions\Bramming Rideklub\bin\Debug\net8.0\Bramming Rideklub.pdb
+c:\Visual Studio Code Solutions\Bramming Rideklub\obj\Debug\net8.0\Bramming Rideklub.GeneratedMSBuildEditorConfig.editorconfig
+c:\Visual Studio Code Solutions\Bramming Rideklub\obj\Debug\net8.0\Bramming Rideklub.AssemblyInfoInputs.cache
+c:\Visual Studio Code Solutions\Bramming Rideklub\obj\Debug\net8.0\Bramming Rideklub.AssemblyInfo.cs
+c:\Visual Studio Code Solutions\Bramming Rideklub\obj\Debug\net8.0\Bramming Rideklub.csproj.CoreCompileInputs.cache
+c:\Visual Studio Code Solutions\Bramming Rideklub\obj\Debug\net8.0\Bramming Rideklub.MvcApplicationPartsAssemblyInfo.cache
+c:\Visual Studio Code Solutions\Bramming Rideklub\obj\Debug\net8.0\staticwebassets.build.json
+c:\Visual Studio Code Solutions\Bramming Rideklub\obj\Debug\net8.0\staticwebassets.development.json
+c:\Visual Studio Code Solutions\Bramming Rideklub\obj\Debug\net8.0\staticwebassets\msbuild.Bramming Rideklub.Microsoft.AspNetCore.StaticWebAssets.props
+c:\Visual Studio Code Solutions\Bramming Rideklub\obj\Debug\net8.0\staticwebassets\msbuild.build.Bramming Rideklub.props
+c:\Visual Studio Code Solutions\Bramming Rideklub\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Bramming Rideklub.props
+c:\Visual Studio Code Solutions\Bramming Rideklub\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Bramming Rideklub.props
+c:\Visual Studio Code Solutions\Bramming Rideklub\obj\Debug\net8.0\staticwebassets.pack.json
+c:\Visual Studio Code Solutions\Bramming Rideklub\obj\Debug\net8.0\scopedcss\bundle\Bramming Rideklub.styles.css
+c:\Visual Studio Code Solutions\Bramming Rideklub\obj\Debug\net8.0\Bramming Rideklub.dll
+c:\Visual Studio Code Solutions\Bramming Rideklub\obj\Debug\net8.0\refint\Bramming Rideklub.dll
+c:\Visual Studio Code Solutions\Bramming Rideklub\obj\Debug\net8.0\Bramming Rideklub.pdb
+c:\Visual Studio Code Solutions\Bramming Rideklub\obj\Debug\net8.0\Bramming Rideklub.genruntimeconfig.cache
+c:\Visual Studio Code Solutions\Bramming Rideklub\obj\Debug\net8.0\ref\Bramming Rideklub.dll
